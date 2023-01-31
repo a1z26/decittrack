@@ -101,7 +101,6 @@ a.ui-button:focus {
 	color: #2b2b2b;
 	text-decoration: none;
 }
-
 .ui-visual-focus {
 	box-shadow: 0 0 3px 1px rgb(94, 158, 214);
 }
